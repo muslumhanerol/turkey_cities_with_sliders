@@ -72,7 +72,9 @@ header a{
     font-size: 5rem;
     list-style: 1.3em;
     color: #f1633a;
-
+}
+.carousel .list .item .content .des{
+    font-size: 15px;
 }
 .carousel .list .item .content .buttons{
     display: grid;
