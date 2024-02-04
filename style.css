@@ -74,7 +74,8 @@ header a{
     color: #f1633a;
 }
 .carousel .list .item .content .des{
-    font-size: 15px;
+    font-size: 16px;
+    color: aliceblue;
 }
 .carousel .list .item .content .buttons{
     display: grid;
