@@ -25,14 +25,12 @@ header{
 header a{
     margin-right: 40px;
 }
-
 .carousel{
     width: 100vw;
     height: 100vh;
     overflow: hidden;
     margin-top: -50px;
     position: relative;
-
 }
 .carousel .list .item{
     position: absolute;
@@ -54,7 +52,6 @@ header a{
     box-sizing: border-box;
     color: #fff;
     text-shadow: 0 5px 10px #0004;
-
 }
 .carousel .list .item .content .auther{
     font-weight: bold;
@@ -65,7 +62,6 @@ header a{
     font-weight: bold;
     font-size: 5rem;
     line-height: 1.3em;
-
 }
 .carousel .list .item .content .topic{
     font-weight: bold;
@@ -83,20 +79,22 @@ header a{
     grid-template-rows: 40px;
     gap: 5px;
     margin-top: 20px;
-
 }
 .carousel .list .item .content button{
     border: none;
     background-color: #eee;
     letter-spacing: 3px;
     font-family: Poppins;
-    font-weight: 500px;
-       
+    font-weight: 500px;       
 }
+
 .carousel .list .item .content button:nth-child(2){
-    background-color:transparent;
-    color: #eee;
-    border: 1px solid #eee;    
+    border: 1px solid #eee;
+    margin-top: 3px;
+    height: 43px; 
+}
+.carousel .list .item .content button:hover{
+   color: #f1633a;   
 }
 
 .thumbnail{
@@ -129,7 +127,6 @@ header a{
 .thumbnail .item .content .title{
     font-weight: bold;
 }
-
 .arrows{
     position: absolute;
     top: 80%;
@@ -157,7 +154,6 @@ header a{
     background-color: #eee;
     color: #555;
 }
-
 .carousel .list .item:nth-child(1){
     z-index: 1;
 }
@@ -227,7 +223,6 @@ header a{
         transform: translateX(0);
     }
 }
-
 .carousel.prev .list .item:nth-child(2){
     z-index: 2;
 }
@@ -266,12 +261,10 @@ header a{
         opacity: 0;
     }
 }
-
 .carousel.next .arrows button,
 .carousel.prev .arrows button{
     pointer-events: none;
 }
-
 .time{
     width: 0%;
     height: 5px;
@@ -291,7 +284,6 @@ header a{
         width: 0;
     }
 }
-
 @media screen and (max-width:678px) {
     .carousel .list .item .content{
         padding-right: 0;
