@@ -2,12 +2,10 @@
 
 https://turkey-cities-with-sliders.vercel.app/
 
-![Slider - Profil 1 - Microsoft​ Edge 7 03 2024 01_06_16](https://github.com/muslumhanerol/turkey_cities_with_sliders/assets/132482365/dbede674-e467-4b5a-adf3-3f7785fe5c7d)
+![Turkey Cities Slider - Profil 1 - Microsoft​ Edge 7 03 2024 01_11_02](https://github.com/muslumhanerol/turkey_cities_with_sliders/assets/132482365/0fd65c5f-d80c-41b5-b8b8-58902d96365c)
 
-![Slider - Profil 1 - Microsoft​ Edge 7 03 2024 01_06_29](https://github.com/muslumhanerol/turkey_cities_with_sliders/assets/132482365/43a428c7-e064-486e-a0d6-c0ec21ab8079)
+![Turkey Cities Slider - Profil 1 - Microsoft​ Edge 7 03 2024 01_11_16](https://github.com/muslumhanerol/turkey_cities_with_sliders/assets/132482365/6dd3c810-4eb3-4a23-9488-8a2dd7d44d3d)
 
-
-![Slider - Profil 1 - Microsoft​ Edge 7 03 2024 01_06_08](https://github.com/muslumhanerol/turkey_cities_with_sliders/assets/132482365/cb6e2d9a-3a0c-43d6-ae4c-97739b5ad004)
-
+![Turkey Cities Slider - Profil 1 - Microsoft​ Edge 7 03 2024 01_10_55](https://github.com/muslumhanerol/turkey_cities_with_sliders/assets/132482365/dce09c11-6829-4516-9024-1a437defc88d)
 
 
